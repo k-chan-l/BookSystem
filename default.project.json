@@ -1,0 +1,61 @@
+{
+  "name": "project",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "ActivityInstall": {
+        "ServerScriptService": {
+          "Activity": {
+            "Scripts":{
+              "$path": "src/ServerScriptService/ActivityInstall/ServerScriptService/Activity/Scripts",
+              "$className":"Folder"
+            },
+            "$className":"Folder"
+          },
+          "$className":"Folder"
+        },
+        "ReplicatedStorage": {
+          "Activity": {
+          "Scripts":{
+            "$path": "src/ServerScriptService/ActivityInstall/ReplicatedStorage/Activity/Scripts",
+            "$className":"Folder"
+          },
+          "$className":"Folder"
+        },
+        "$className":"Folder"
+        },
+        "ServerStorage": {
+          "Activity": {
+          "Scripts":{
+            "$path": "src/ServerScriptService/ActivityInstall/ServerStorage/Activity/Scripts",
+            "$className":"Folder"
+          },
+          "$className":"Folder"
+        },
+        "$className":"Folder"
+        },
+        "StarterGui": {
+          "Activity": {
+          "Scripts":{
+            "$path": "src/ServerScriptService/ActivityInstall/StarterGui/Activity/Scripts",
+            "$className":"Folder"
+          },
+          "$className":"Folder"
+        },
+        "$className":"Folder"
+        },
+        "Workspace": {
+          "Activity": {
+          "Scripts":{
+            "$path": "src/ServerScriptService/ActivityInstall/Workspace/Activity/Scripts",
+            "$className":"Folder"
+          },
+          "$className":"Folder"
+        },
+        "$className":"Folder"
+      },
+      "$className":"Folder"
+      }
+    }
+  }
+}
